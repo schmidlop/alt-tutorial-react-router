@@ -1,7 +1,7 @@
 # alt-tutorial-react-router
 The Alt tutorial with react-router goodness on top
 
-The original tutorial can be found [here]()
+The original tutorial can be found [here](https://github.com/goatslacker/alt-tutorial)
 
 
 ## Getting Started
